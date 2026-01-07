@@ -1,6 +1,6 @@
 # Chess Application
 ## Overview
-This project is a chess application built in Python, which allow users to play against AI of varying difficulty, against other users locally, complete chess puzzles and review previously played games. The aim of this project for this was to help players of varying skill levels to improve at chess.
+For my A-Level Computer Science Coursework i built a chess application built in Python, which allow users to play against AI of varying difficulty, against other users locally, complete chess puzzles and review previously played games. The aim for this project was to help players of varying skill levels to improve at chess ability.
 
 ## Demostration
 Below are two demonstration videos showcasing the user experience and core functionality of the application.
