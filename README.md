@@ -24,4 +24,4 @@ This video verifies the strength of the Minimax AI. My AI plays against an ~1600
 - **Security:** bcrypt password hashing
 - **Algorithms:** Minimax with Alpha-Beta Pruning, Iterative Deepening
 ## Documentation of Design
-For an in-depth review of the final system design, algorithms and development process see the [NEA documentation](./NEA.pdf).
+For an in-depth review of the final system design, algorithms and development process see the [NEA documentation](./NEA%20-%20Marcus%20Lee.pdf).
